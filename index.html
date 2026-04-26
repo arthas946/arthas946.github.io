@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Chaos Lab (TE)"
+permalink: /
+author_profile: true
+---
+{% include base_path %}
+
+{% for post in site.pages %}
+  {% if post.permalink == "/about/" %}
+    {{ post.content }}
+  {% endif %}
+{% endfor %}
