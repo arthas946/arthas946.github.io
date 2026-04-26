@@ -1,6 +1,6 @@
-# Chaos Lab (TE)
+# Chaos Lab (TEU)
 
-Welcome to Chaos Lab (TE).
+Welcome to Chaos Lab (TEU).
 
 Our research focuses on AI-native networking, task-oriented network services (TONaaS), and autonomous network systems (AutoNaaS).
 
